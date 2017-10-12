@@ -1,2 +1,2 @@
 # privacy_policy
-privacy policy
+privacy policy for game Curse of Hex
